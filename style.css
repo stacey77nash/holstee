@@ -1,0 +1,114 @@
+* { 
+	margin:0px; 
+	padding:0px; 
+	box-sizing:border-box; 
+}
+
+body {
+	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Quattrocento', serif;
+	font-size: 22px;
+}
+
+div {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float: left; 
+}
+
+p {
+	text-align: center;
+	padding: 25px;
+	vertical-align: middle;
+	line-height: 35px;
+}
+
+.bold {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 900;
+}
+
+#container {
+	width: 530px;
+	height: 1310px;
+	border: 5px solid black;
+	margin: 10px 0px 10px 10px;
+	align-content: center;
+	padding: 0px;
+}
+
+/*This*/
+
+#large_left {
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	width: 260px;
+	height: 520px;
+	padding: 20px 10px 20px 10px;
+}
+
+/*Open*/
+
+#small_left_1 {
+	background-color: #69779b;
+	width: 260px;
+	height: 260px;
+	padding-top: 5px;
+	float: left;
+}
+/*Travel*/
+
+#small_left_2 {
+	background-color: #acdbdf;
+	width: 260px;
+	height: 260px;
+	padding-top: 50px;
+}
+
+/*Some*/
+
+#small_left_3 {
+	background-color: #f0ece2;
+	width: 260px;
+	height: 260px;
+	padding-top: 50px;
+}	
+
+/*If*/
+
+#small_right_1 {
+	background-color: #69779b;
+	width: 260px;
+	height: 260px;
+}
+
+/*Stop*/
+
+#small_right_2 {
+	background-color: #acdbdf;
+	width: 260px;
+	height: 260px;
+}
+
+/*Ask*/
+
+#small_right_3 {
+	background-color: #f0ece2;
+	width: 260px;
+	height: 260px;
+	padding-top: 20px;
+}
+
+/*Life*/
+
+#large_right {
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	width: 260px;
+	height: 520px;
+	float: right;
+	padding: 20px 10px 20px 10px;
+}
+
